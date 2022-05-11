@@ -1,0 +1,14 @@
+.headernav .nav-item{
+    background: #fff;
+    margin: 5px;
+    border-radius: 5px;
+}
+.headernav .nav-item .nav-link{
+    padding: 10px 20px;
+    color: #1d7ec3;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.navbar-brand{
+    max-width: 100px;
+}

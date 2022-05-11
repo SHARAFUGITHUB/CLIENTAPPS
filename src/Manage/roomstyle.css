@@ -1,0 +1,74 @@
+.minh{
+    min-height: calc(100vh - 280px);
+}
+.pagetitle{
+    background: rgb(240, 240, 240);
+    font-size: 30px;
+    font-weight: bolder;
+    color: cornflowerblue;
+}
+.form-label{
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.coustom-input-check{
+    width: 35px !important;
+    height: 35px !important;
+    margin-right: 10px;
+}
+.form-check-label {
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 40px;
+}
+table{
+    border: 1px solid #0574b5 !important;
+}
+thead {
+    background: #16a2e5;
+    color: #fff;
+    border-bottom: 3px solid #0574b5 !important;
+}
+thead th{
+    border-right: 1px solid rgba(47, 214, 236, 0.333);
+}
+tbody td{
+    border-left: 1px solid rgba(22, 22, 22, 0.333);
+}
+.boldtext{
+    font-weight: bold;
+}
+.btn{
+    margin: 2px;
+}
+.fa-check-circle{
+    color: green;
+    font-size: 50px !important;
+}
+.fa-times-circle{
+    color: red;
+    font-size: 50px !important;
+}
+.fa.fa-circle
+{
+  color:green;
+  font-size: 50px !important;   
+}
+
+.fa.fa-circle.red
+{
+  color:red;
+  font-size: 50px !important;   
+}
+.fa-inr
+{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    margin-right: 2px;
+    margin-top: 2px;
+}
+
+
+
